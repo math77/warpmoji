@@ -1,4 +1,4 @@
-# warpmoji
+# farmoji
 
 An onchain sticker protocol for decentralized social network farcaster.
 
@@ -17,3 +17,9 @@ The final project will probably consist of:
 - Decided that there will be static and animated stickers. 
 - There's no need for a dedicated web editor at first. Provide an adobe tools plugin that exports the animated file to our custom data type and then the creator uploads it on the webapp and then store this file onchain together with the rest of the information associated with the sticker/set
 - The stickers will either be APNG or a customized compressed lottie file type (to reduce the size). Investigating this
+
+
+#### 26/05/2025
+
+- Still trying to raise funds to develop this project. 
+- Renaming to farmoji
