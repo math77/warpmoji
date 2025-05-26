@@ -19,7 +19,7 @@ The final project will probably consist of:
 - The stickers will either be APNG or a customized compressed lottie file type (to reduce the size). Investigating this
 
 
-#### 26/05/2025
+#### 05/26/2025
 
 - Still trying to raise funds to develop this project. 
 - Renaming to farmoji
